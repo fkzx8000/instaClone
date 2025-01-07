@@ -73,7 +73,7 @@ The profile page where users can change their username and profile picture. User
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/my-instagram-clone.git
+   git clone https://github.com/fkzx8000/instaClone.git
    ```
 
 2. **Install dependencies:**
